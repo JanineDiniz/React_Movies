@@ -39,4 +39,8 @@ Esse projeto é um estudo dos conceitos de:
 - Styled Components
 - Rotas
 
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/UObYagRzmvi5PY4HhmzEHM/RocketMovies/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
 ## :memo: Licença
